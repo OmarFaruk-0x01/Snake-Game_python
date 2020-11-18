@@ -103,6 +103,7 @@ while True:
 		scr.clear()
 		scr.write(f"Score: {score} Highscore: {highscore}",align="center",font=("arial",10,"bold"))
 		dela+=0.001
+		hghjgqa
 	#add body with head
 	for i in range(len(segment)-1,0,-1):
 		x,y=segment[i-1].xcor(),segment[i-1].ycor()
